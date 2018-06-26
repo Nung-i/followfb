@@ -1,5 +1,8 @@
 package com.follow.facebook.attachments.dao;
 
-public class AttachmentsDaoImpl {
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class AttachmentsDaoImpl implements IAttachmentsDao{
 
 }

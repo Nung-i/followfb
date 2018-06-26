@@ -1,5 +1,5 @@
 package com.follow.facebook.recomment.dao;
 
-public class RecommentDaoImpl {
+public class RecommentDaoImpl implements IRecommentDao {
 
 }

@@ -1,5 +1,5 @@
 package com.follow.facebook.recomment.service;
 
-public class RecommentServiceImpl {
+public class RecommentServiceImpl implements IRecommentService {
 
 }

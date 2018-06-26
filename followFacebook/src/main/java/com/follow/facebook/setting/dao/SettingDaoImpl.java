@@ -1,5 +1,5 @@
 package com.follow.facebook.setting.dao;
 
-public class SettingDaoImpl {
+public class SettingDaoImpl implements ISettingDao{
 
 }

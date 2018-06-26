@@ -1,5 +1,5 @@
 package com.follow.facebook.setting.service;
 
-public class SettingServiceImpl {
+public class SettingServiceImpl implements ISettingService {
 
 }

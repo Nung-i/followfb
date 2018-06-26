@@ -1,5 +1,8 @@
 package com.follow.facebook.attachments.service;
 
-public class AttachmentsServiceImpl {
+import org.springframework.stereotype.Service;
+
+@Service
+public class AttachmentsServiceImpl implements IAttachmentsService{
 
 }

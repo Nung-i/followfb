@@ -1,5 +1,5 @@
 package com.follow.facebook.board.timeline.service;
 
-public class TimeLineServiceImpl {
+public class TimeLineServiceImpl implements ITimeLineService {
 
 }

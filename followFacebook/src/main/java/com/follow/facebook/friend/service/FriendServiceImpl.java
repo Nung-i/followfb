@@ -1,5 +1,5 @@
 package com.follow.facebook.friend.service;
 
-public class FriendServiceImpl {
+public class FriendServiceImpl implements IFriendService{
 
 }
